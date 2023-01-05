@@ -14,6 +14,7 @@
 
 * recall score: (high risk: 0.71)(low risk: 0.60)(avg/total: 0.60) 
 
+
 ### SMOTE Oversampling
 ![](Resources/module18second.PNG)
 
@@ -22,6 +23,7 @@
 * precision score: (high risk: 0.01)(low risk: 1.00)(avg/total: 0.99) 
 
 * recall score: (high risk: 0.63)(low risk: 0.69)(avg/total: 0.69) 
+
 
 ### Undersampling
 ![](Resources/module18third.PNG)
@@ -32,6 +34,7 @@
 
 * recall score: (high risk: 0.69)(low risk: 0.40)(avg/total: 0.40) 
 
+
 ### Combination (Over and Under) Sampling
 ![](Resources/module18fourth.PNG)
 
@@ -40,6 +43,7 @@
 * precision score: (high risk: 0.01)(low risk: 1.00)(avg/total: 0.99) 
 
 * recall score: (high risk: 0.72)(low risk: 0.57)(avg/total: 0.58) 
+
 
 ### Balanced Random Forest Classifier
 ![](Resources/module18fifth.PNG)
@@ -50,6 +54,7 @@
 
 * recall score: (high risk: 1.00)(low risk: 0.00)(avg/total: 0.01) 
 
+
 ### Easy Ensemble AdaBoost Classifier
 ![](Resources/module18sixth.PNG)
 
@@ -58,5 +63,6 @@
 * precision score: (high risk: 0.09)(low risk: 1.00)(avg/total: 0.99) 
 
 * recall score: (high risk: 0.92)(low risk: 0.94)(avg/total: 0.94) 
+
 
 ## Summary
