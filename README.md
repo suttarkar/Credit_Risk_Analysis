@@ -78,5 +78,6 @@ We used 6 different imbalanced classifiers to help make the classifications to s
 
 
 ## Summary
+Most of the classifiers seem to be have a relatively unsatisfactory accuracy other than the Easy Ensemble AdaBoost Classifier. Though it has a low precision score for high risk, the precision is still higher than all of the other  options. The recall scores are all higher than the other options as well.
 
-
+When looking at which model would be the most effective for this dataset, the best choice would be the Easy Ensemble AdaBoost Classifier since it outperformed the other options in almost all aspects.
